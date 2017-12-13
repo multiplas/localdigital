@@ -1,0 +1,3 @@
+﻿post_id,"post_category","post_title","post_content","thumbnailImage","post_name","post_imagenes","_yoast_wpseo_title","_yoast_wpseo_metadesc","_yoast_wpseo_focuskw","_yoast_wpseo_meta-robots-noindex","_yoast_wpseo_meta-robots-nofollow"
+"","descuentos","Cupon de descuento para nuevos clientes","Para los nuevos clientes estamos de <b>enhorabuena</b> ya que estamos ofreciendo vales de descuento.<br>
+Si eres un nuevo cliente no te pierdas esta oferta. ","","cupones_descuento/","https://servantrip.it/wp-content/uploads/sites/13/2015/12/limadef.jpg","I migliori luoghi da vedere a Lima","Scopri il meglio da vedere a Lima grazie a una visita guidata qualificata che ti mostrerà la miglior  faccetta della capitale. Paga solo la prenotazione.","","","",""
