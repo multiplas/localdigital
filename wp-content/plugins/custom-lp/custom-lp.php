@@ -36,21 +36,21 @@ if (! function_exists ( 'crearCustomPost' )) {
 						'category' 
 				),
 				'public'  => true,
-				'capability_type' => 'post',
-				'publicly_queryable' => false,
-				'map_meta_cap' => true,
-				'menu_position' => 5,
-				'hierarchical' => false,
+				'publicly_queryable' => true,
+				'show_ui'            => true,
+				'capability_type'    => 'post',
+				'hierarchical' => true,
+				'has_archive'        => false,
 				'rewrite' => array (
-						'slug' => '/',
+						'slug' => 'customlp',
 						'with_front' => false
 				),
-				'query_var' => false,
+				'menu_position'      => 5,
 				'delete_with_user' => true,
 				'menu_icon' => 'https://goo.gl/YRM2Jz',
 				'supports' => array( 'title', 'editor', 'thumbnail', 'custom-fields', 'comments', 'revisions', 'author', 'page-attributes', 'post-formats' )
 		);
-		
+		flush_rewrite_rules();
 		// https://codex.wordpress.org/Function_Reference/register_post_type
 		register_post_type ( 'customlp', $argumentos );
 	}
