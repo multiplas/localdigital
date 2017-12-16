@@ -774,3 +774,4 @@
 [16-Dec-2017 16:39:02 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
 [16-Dec-2017 16:39:11 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
 [16-Dec-2017 16:39:19 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 17:10:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\localdigital\wp-includes\wp-db.php on line 1942
