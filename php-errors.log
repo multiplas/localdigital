@@ -763,3 +763,14 @@
 [16-Dec-2017 15:03:16 UTC] PHP Notice:  Undefined variable: dry_run in C:\xampp\htdocs\localdigital\wp-content\plugins\custom-lp\importar-csv\rs-csv-importer.php on line 174
 [16-Dec-2017 15:03:20 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
 [16-Dec-2017 15:03:21 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:02 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:35 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:43 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:44 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:44 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:38:51 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\localdigital\wp-content\plugins\custom-lp\importar-csv\rs-csv-importer.php on line 355
+[16-Dec-2017 16:39:01 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:39:02 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:39:02 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:39:11 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
+[16-Dec-2017 16:39:19 UTC] PHP Notice:  Undefined index: drift_identify in C:\xampp\htdocs\localdigital\wp-content\plugins\drift\includes\embed.php on line 63
